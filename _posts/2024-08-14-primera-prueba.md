@@ -14,8 +14,6 @@ tags:
   - Información Personal
 ---
 
-### Curriculum de Rubén Díaz Olmo, hecho a partir del siguiente repositorio: https://github.com/slemire/slemire.github.io
-
 Hola, soy Rubén y soy programador industrial, mi trabajo se basa en realizar la programación de PLC, HMI y/o SCADA a partir de documentación (planos eléctricos, P&IDs, noticias de funcionamiento/descripciones funcionales, etc.) facilitada por el cliente, analizandola y extrayendo la información necesaria para plantear y ejecutar el proyecto de la mejor forma posible. Tengo experiencia en varieadad de tipos de plantas industriales, tales como:
 
     - Calderas de Biomasa
