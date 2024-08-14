@@ -103,7 +103,15 @@ analytics:
 author:
   name             : "Rubén Díaz Olmo"
   avatar           : "https://avatars.githubusercontent.com/u/86986250?s=48&v=4"
-  bio              : "Programador PLC/HMI/Scada/nTécnico Puesta en Marcha de instalaciones industriales"
+  bio              : |
+    Programador PLC/HMI/Scada
+    Técnico Puesta en Marcha de instalaciones industriales experiencia destacable en:
+      - Calderas de Biomasa
+      - Calderas de vapor
+      - Desaladoras
+      - Frío industrial
+      - Maquinaria
+      - Cintas de transporte
   location         : "España"
   email            : "rubendiazolmo@outlook.com"
   uri              :
