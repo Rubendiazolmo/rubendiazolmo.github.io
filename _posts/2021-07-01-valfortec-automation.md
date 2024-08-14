@@ -11,13 +11,13 @@ header:
 categories:
   - Experiencia
 tags:  
+  - ASEM Premium HMI
   - TIA Portal
   - Step7
   - CX-Programmer
   - SoMachine
   - RSLogix
   - Unity Pro XLS
-  - ASEM Premium HMI
   - Factory Talk Studio
   - WinCC
   - Indusoft Web Studio
