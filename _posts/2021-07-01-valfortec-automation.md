@@ -48,6 +48,7 @@ Desde que estoy trabajando en Valfortec Automation he aprendido a:
 
 - Interacción con clientes
   - Evaluar necesidades del proyecto
+  - Resolución de dudas técnicas
   - Consulta de dudas
   - Ofrecer soporte técnico
 
@@ -63,6 +64,11 @@ Desde que estoy trabajando en Valfortec Automation he aprendido a:
   - Ejecución del programa HMI
   - Desarrollo de Scripts, principalmente con VBScript
   - Realizar optimizaciones en bases de programación
+
+- Desarrollo de herramientas de optimización
+  - Realizar pequeños programas/scripts para acelerar el flujo de trabajo
+  - Modificación de herramietnas existentes para adaptarlas a necesidades puntuales
+  - Desarrollo de herramientas genericas para optimizar tiempos de ejecución de proyectos
 
 ## 2021
 
