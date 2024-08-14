@@ -38,6 +38,13 @@ tags:
   - Jira
   - WinCC Flexible
   - Comunicaciones industriales
+  - Profinet
+  - Profibus
+  - RS232/RS485
+  - Ethernet IP
+  - Modbus TCP/IP
+  - Modbus RTU
+  - OPC
 ---
 
 ## ¿Qué he aprendido?
