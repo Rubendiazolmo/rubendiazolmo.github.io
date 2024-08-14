@@ -28,7 +28,13 @@ tags:
   - Python
   - C#
   - SQL
+  - SQLite
   - Excel
+  - TIA Openness
+  - Puesta en Marcha
+  - PLC
+  - HMI
+  - SCADA
 ---
 
 ## 2021
@@ -46,3 +52,11 @@ Durante la segunda anualidad realicé proyectos de forma autónoma, realizaba ta
 Durante la segunda mitad del año empecé a realizar proyectos de forma integra, destacando una reprogramación de una planta de frio industrial. Cambié el programa PLC y el Scada, en ese caso el software del SCADA fue **Indusoft Web Studio**, en el que se realizó la programación del SCADA siguiendo unos patrones de diseño establecidos. Realicé 2 proyectos de este estilo muy parecidos entre ellos.
 
 Durante este segundo año descubrí el verdadero potencial de herramientas como **Excel** y **Python** para hacer diferentes herramientas para automatizar mis tareas más repetitivas haciendo que mi flujo de trabajo fuese mucho más efectivo y evitando errores humanos que surgen al realizar tareas repetitivas.
+
+## 2023
+
+Durante la anualidad del año 2023 realizaba proyectos de forma autónoma, tanto ampliaciones de proyectos existentes como proyectos nuevos, analizando la docuementación suminstrada por el cliente y contactando directamente con él para resolver las dudas surgidas durante la ejecución del proyeto.
+
+También desarrollé con **Python** un sistema de envio de alarmas para WinCC, durante este proyecto vi el potencial de las bases de datos **SQL** y **Python** haciendome entender la importancia de un buen planteamiento y estructuración de un programa de **Python** y la importancia de una ejecución eficiente de consultas **SQL**. También utilicé **SQLite** para la configuración interna del programa que gestiona el envío de alarmas.
+
+Empecé también a desarrollar herramientas para la optimización del trabajo con **C#** bajo el framework de **.NET** y los **Windows Forms** para la interfaz gráfica. Aquí descubrí el la existencia de **TIA Openness** y junto a esto, su pontecial para realizar los desarrollos en TIA Portal de forma eficiente.
