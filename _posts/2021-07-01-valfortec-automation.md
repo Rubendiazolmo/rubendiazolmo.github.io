@@ -55,7 +55,7 @@ Durante este segundo año descubrí el verdadero potencial de herramientas como 
 
 ## 2023
 
-Durante la anualidad del año 2023 realizaba proyectos de forma autónoma, tanto ampliaciones de proyectos existentes como proyectos nuevos, analizando la docuementación suminstrada por el cliente y contactando directamente con él para resolver las dudas surgidas durante la ejecución del proyeto.
+Durante la anualidad del año 2023 realicé proyectos de forma autónoma, tanto ampliaciones de proyectos existentes como proyectos nuevos, analizando la docuementación suminstrada por el cliente y contactando directamente con él para resolver las dudas surgidas durante la ejecución del proyeto.
 
 También desarrollé con **Python** un sistema de envio de alarmas para WinCC, durante este proyecto vi el potencial de las bases de datos **SQL** y **Python** haciendome entender la importancia de un buen planteamiento y estructuración de un programa de **Python** y la importancia de una ejecución eficiente de consultas **SQL**. También utilicé **SQLite** para la configuración interna del programa que gestiona el envío de alarmas.
 
