@@ -3,5 +3,5 @@ main:
     url: /
   - title: "Categorias"
     url: /categories/
-  - title: "Etiquetas"
+  - title: "Habilidades"
     url: /tags/
