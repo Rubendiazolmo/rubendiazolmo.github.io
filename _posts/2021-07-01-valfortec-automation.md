@@ -37,6 +37,7 @@ tags:
   - SCADA
   - Jira
   - WinCC Flexible
+  - Comunicaciones industriales
 ---
 
 ## ¿Qué he aprendido?
@@ -59,6 +60,15 @@ Desde que estoy trabajando en [Valfortec Automation](https://www.linkedin.com/co
 - Programación PLC
   - Definición de estructura del programa analizando las necesidades del proyecto
   - Ejecución de programa siguiendo descripción funcional proporcionada por el cliente
+  - Configuración de protocolos de comunicación industriales
+    - Modbus TCP/IP
+    - Modbus RTU
+    - RS485
+    - RS232
+    - Profinet
+    - Ethernet IP
+    - Probus
+    - OPC
   - Prueba de la programación siguiendo descripción funcional
   - Realizar documentación del proyecto
   - Realizar optimizaciones en bases de programación
