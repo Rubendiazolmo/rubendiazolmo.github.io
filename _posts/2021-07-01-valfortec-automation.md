@@ -5,9 +5,9 @@ excerpt: "Valfortec Automation ha sido, hasta el momento, mi primera y única ex
 date: 2021-07-01
 classes: wide
 header:
-  teaser: "https://www.valfortec.com/wp-content/uploads/2021/02/valfortec_apple.png"
+  teaser: 
   teaser_home_page: true
-  icon: "https://www.valfortec.com/wp-content/uploads/2021/02/valfortec_apple.png"
+  icon: 
 categories:
   - Experiencia
 tags:  
@@ -40,7 +40,7 @@ tags:
 
 ## ¿Qué he aprendido?
 
-Desde que estoy trabajando en Valfortec Automation he aprendido a:
+Desde que estoy trabajando en [Valfortec Automation](https://www.linkedin.com/company/valfortec-automation) he realizado las siguientes funciones:
 
 - Ejecución de proyectos de automatización
   - Recopilar y analizar documentación técnica
@@ -77,6 +77,17 @@ Desde que estoy trabajando en Valfortec Automation he aprendido a:
   - Realizar pequeños programas/scripts para acelerar el flujo de trabajo
   - Modificación de herramientas existentes para adaptarlas a necesidades puntuales
   - Desarrollo de herramientas genéricas para optimizar tiempos de ejecución de proyectos
+
+## Sectores industriales
+
+He realizado proyectos para diferentes sectores industriales, tales como:
+
+  - Calderas de Biomasa
+  - Calderas de Vapor
+  - Maquinaria
+  - Desaladoras
+  - Cintas de transporte
+  - Plantas de hidrólisis
 
 ## Mi primer año
 
