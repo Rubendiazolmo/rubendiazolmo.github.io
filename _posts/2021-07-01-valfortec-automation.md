@@ -5,7 +5,7 @@ excerpt: "Valfortec Automation ha sido, hasta el momento, mi primera y única ex
 date: 2021-07-01
 classes: wide
 header:
-  teaser: 
+  teaser: "https://www.valfortec.com/wp-content/uploads/2021/02/valfortec_apple.png"
   teaser_home_page: true
   icon: "https://www.valfortec.com/wp-content/uploads/2021/02/valfortec_apple.png"
 categories:
