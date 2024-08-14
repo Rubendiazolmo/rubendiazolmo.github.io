@@ -5,18 +5,14 @@ excerpt: "Vamos a probar esto"
 date: 2024-08-14
 classes: wide
 header:
-  teaser: /assets/images/htb-writeup-delivery/delivery_logo.png
+  teaser: 
   teaser_home_page: true
-  icon: /assets/images/hackthebox.webp
+  icon: 
 categories:
-  - hackthebox
-  - infosec
+  - Prueba
+  - Formación
 tags:  
-  - osticket
-  - mysql
-  - mattermost
-  - hashcat
-  - rules
+  - Proyecto personal
 ---
 
 No tengo ni idea de como va esto, pero vamos a probarlo, no?
