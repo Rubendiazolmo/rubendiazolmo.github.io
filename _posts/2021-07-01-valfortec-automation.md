@@ -1,41 +1,41 @@
 ---
 layout: single
 title: Experiencia - Valfortec Automation
-excerpt: "Valfortec Automation ha sido, hasta el momento, mi primera y única experiencia laboral en el sector de la Automatización Industrial, en la que estoy aprendiendo gran cantidad de conociemientos que me permiten crecer tanto a nivel profesional como personal."
+excerpt: "Valfortec Automation ha sido, hasta el momento, mi primera y única experiencia laboral en el sector de la Automatización Insutrial, en la que estoy aprendiendo gran cantidad de conociemientos que me permiten crecer tanto a nivel profesional como personal."
 date: 2021-07-01
 classes: wide
 header:
-  teaser: 
-  teaser_home_page: true
-  icon: https://www.valfortec.com/wp-content/uploads/2021/02/valfortec_apple.png
+  teaser: 
+  teaser_home_page: true
+  icon: https://www.valfortec.com/wp-content/uploads/2021/02/valfortec_apple.png
 categories:
-  - Experiencia
-tags:  
-  - TIA Portal
-  - Step7
-  - CX-Programmer
-  - SoMachine
-  - RSLogix
-  - Unity Pro XLS
-  - ASEM Premium HMI
-  - Factory Talk Studio
-  - WinCC
-  - Indusoft Web Studio
-  - ESA Polymath
-  - ESA VTWin
-  - VBScript
-  - Scripts
-  - Python
-  - C#
-  - SQL
-  - SQLite
-  - Excel
-  - TIA Openness
-  - Puesta en Marcha
-  - PLC
-  - HMI
-  - SCADA
-  - Jira
+  - Experiencia
+tags:  
+  - TIA Portal
+  - Step7
+  - CX-Programmer
+  - SoMachine
+  - RSLogix
+  - Unity Pro XLS
+  - ASEM Premium HMI
+  - Factory Talk Studio
+  - WinCC
+  - Indusoft Web Studio
+  - ESA Polymath
+  - ESA VTWin
+  - VBScript
+  - Scripts
+  - Python
+  - C#
+  - SQL
+  - SQLite
+  - Excel
+  - TIA Openness
+  - Puesta en Marcha
+  - PLC
+  - HMI
+  - SCADA
+  - Jira
 ---
 
 ## ¿Qué he aprendido?
