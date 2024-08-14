@@ -23,7 +23,7 @@ description              : "Curriculum de Rubén Díaz Olmo"
 url                      : "https://rubendiazolmo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "rubendiazolmo/rubendiazolmo.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-logo                     : "/assets/images/masthead.png"
+logo                     : 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -103,8 +103,7 @@ analytics:
 author:
   name             : "Rubén Díaz Olmo"
   avatar           : "https://avatars.githubusercontent.com/u/86986250?s=48&v=4"
-  bio              : |
-    Programador PLC/HMI/Scada y Técnico Puesta en Marcha
+  bio              : "Programador PLC/HMI/Scada y Técnico Puesta en Marcha"
   location         : "España"
   email            : "rubendiazolmo@outlook.com"
   uri              :
