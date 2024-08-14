@@ -27,7 +27,7 @@ Hola, soy Rubén y soy programador industrial, mi trabajo se basa en realizar la
 
 Durante mi trayectoria laboral he trabajado con diferentes tecnologias, tanto a nivel de PLC, como de HMI y SCADA.
 
-# PLC
+### PLC
 
 He trabajado con diferentes tecnologicas para realizard diferentes proyectos, utiliznado tanto los lenguajes visules *lenguaje de contactos* y *puertas lógcias*, como los textuales como *lenjuage strucuturado* y *lista de instrucciones*, enfocando principalmente el foco de trabajo en el *lenguaje estructurado*.
 
