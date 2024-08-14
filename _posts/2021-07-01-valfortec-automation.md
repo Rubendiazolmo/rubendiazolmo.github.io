@@ -37,6 +37,33 @@ tags:
   - SCADA
 ---
 
+## ¿Qué he aprendido?
+
+Desde que estoy trabajando en Valfortec Automation he aprendido a:
+
+- Ejecución de proyectos de automatización
+  - Recopilar y analizar documentación técnica
+  - Interiorizar conceptos de las instalaciones programadas
+  - Organización y gestión de recursos asignados para la ejecución del trabajo
+
+- Interacción con clientes
+  - Evaluar necesidades del proyecto
+  - Consulta de dudas
+  - Ofrecer soporte técnico
+
+- Programación PLC
+  - Realizar estructura del programa analizando las necesidades del proyecto
+  - Ejecución de programa siguiendo descripción funcional proporcionada por el cliente
+  - Prueba de la programación siguiendo descripción funcional
+  - Realizar documentación del proyecto
+  - Realizar optimizaciones en bases de programación
+
+- Programación HMI/SCADA
+  - Analizar necesidades del proyecto
+  - Ejecución del programa HMI
+  - Desarrollo de Scripts, principalmente con VBScript
+  - Realizar optimizaciones en bases de programación
+
 ## 2021
 
 Empecé en Valfortec Automation en Julio del año 2021, durante esta anualidad mis labores se basaron principalmente al desarrollo de programas de HMI, utilizando en software **ASEM Premium HMI** y SCADA, utilizando **WinCC**, en concreto la versión 7.4
