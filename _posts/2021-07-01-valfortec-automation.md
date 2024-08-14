@@ -1,22 +1,29 @@
 ---
 layout: single
-title: Delivery - Hack The Box
-excerpt: "Delivery is a quick and fun easy box where we have to create a MatterMost account and validate it by using automatic email accounts created by the OsTicket application. The admins on this platform have very poor security practices and put plaintext credentials in MatterMost. Once we get the initial shell with the creds from MatterMost we'll poke around MySQL and get a root password bcrypt hash. Using a hint left in the MatterMost channel about the password being a variation of PleaseSubscribe!, we'll use hashcat combined with rules to crack the password then get the root shell."
-date: 2021-05-22
+title: Experiencia - Valfortec Automation
+excerpt: "Valfortec Automation ha sido, hasta el momento, mi primera y única experiencia laboral en el sector de la Automatización Insutrial, en la que estoy aprendiendo gran cantidad de conociemientos que me permiten crecer tanto a nivel profesional como personal.
+Durante esta etapa "
+date: 2021-07-01
 classes: wide
 header:
-  teaser: /assets/images/htb-writeup-delivery/delivery_logo.png
+  teaser: 
   teaser_home_page: true
-  icon: /assets/images/hackthebox.webp
+  icon: https://www.valfortec.com/wp-content/uploads/2021/02/valfortec_apple.png
 categories:
-  - hackthebox
-  - infosec
+  - Experiencia
 tags:  
-  - osticket
-  - mysql
-  - mattermost
-  - hashcat
-  - rules
+  - TIA Portal
+  - Step7
+  - CX-Programmer
+  - SoMachine
+  - RSLogix
+  - Unity Pro XLS
+  - ASEM Premium HMI
+  - Factory Talk Studio
+  - WinCC (Scada y HMI)
+  - Indusoft Web Studio
+  - ESA Polymath
+  - ESA VTWin
 ---
 
 ![](/assets/images/htb-writeup-delivery/delivery_logo.png)
