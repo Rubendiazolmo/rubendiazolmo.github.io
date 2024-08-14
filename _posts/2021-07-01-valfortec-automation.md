@@ -7,7 +7,7 @@ classes: wide
 header:
   teaser: 
   teaser_home_page: true
-  icon: https://www.valfortec.com/wp-content/uploads/2021/02/valfortec_apple.png
+  icon: "https://www.valfortec.com/wp-content/uploads/2021/02/valfortec_apple.png"
 categories:
   - Experiencia
 tags:  
