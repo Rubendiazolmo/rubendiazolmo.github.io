@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Soy la primera prueba
-excerpt: "Vamos a probar esto"
+title: Sobre mi
+excerpt: "Información sobre mi"
 date: 2024-08-14
 classes: wide
 header:
@@ -9,11 +9,36 @@ header:
   teaser_home_page: true
   icon: 
 categories:
-  - Prueba
-  - Formación
+  - Presentación
 tags:  
-  - Proyecto personal
+  - Información Personal
 ---
 
-No tengo ni idea de como va esto, pero vamos a probarlo, no?
+### Curriculum de Rubén Díaz Olmo, hecho a partir del siguiente repositorio: https://github.com/slemire/slemire.github.io
+
+Hola, soy Rubén y soy programador industrial, mi trabajo se basa en realizar la programación de PLC, HMI y/o SCADA a partir de documentación (planos eléctricos, P&IDs, noticias de funcionamiento/descripciones funcionales, etc.) facilitada por el cliente, analizandola y extrayendo la información necesaria para plantear y ejecutar el proyecto de la mejor forma posible. Tengo experiencia en varieadad de tipos de plantas industriales, tales como:
+
+    - Calderas de Biomasa
+    - Calderas de Vapor
+    - Maquinaria
+    - Desaladoras
+    - Cintas de transporte
+    - Plantas de hidrólisis
+
+## Tecnologias
+
+Durante mi trayectoria laboral he trabajado con diferentes tecnologias, tanto a nivel de PLC, como de HMI y SCADA.
+
+# PLC
+
+He trabajado con diferentes tecnologicas para realizard diferentes proyectos, utiliznado tanto los lenguajes visules *lenguaje de contactos* y *puertas lógcias*, como los textuales como *lenjuage strucuturado* y *lista de instrucciones*, enfocando principalmente el foco de trabajo en el *lenguaje estructurado*.
+
+Además de con TIA Portal he trabajado con diferentes softwares como:
+
+    - TIA Portal
+    - CX-Programmer
+    - Unity Pro XLS
+    - RSLogix
+    - SoMachine
+    - Step7
 
