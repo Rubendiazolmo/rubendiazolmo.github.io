@@ -43,40 +43,40 @@ tags:
 Desde que estoy trabajando en Valfortec Automation he aprendido a:
 
 - Ejecución de proyectos de automatización
-  - Recopilar y analizar documentación técnica
-  - Interiorizar conceptos de las instalaciones programadas
-  - Organización y gestión de recursos asignados para la ejecución del trabajo
-  - Resolución de problemas surgidos durante la ejecución del proyecto
-  - Realizar documentación técnica de la ejecución del proyecto
+  - Recopilar y analizar documentación técnica
+  - Interiorizar conceptos de las instalaciones programadas
+  - Organización y gestión de recursos asignados para la ejecución del trabajo
+  - Resolución de problemas surgidos durante la ejecución del proyecto
+  - Realizar documentación técnica de la ejecución del proyecto
 
 - Interacción con clientes
-  - Evaluar necesidades del proyecto
-  - Resolución de dudas técnicas
-  - Consulta de dudas
-  - Soporte técnico al cliente, tanto de manera presencial como en formato remoto
+  - Evaluar necesidades del proyecto
+  - Resolución de dudas técnicas
+  - Consulta de dudas
+  - Soporte técnico al cliente, tanto de manera presencial como en formato remoto
 
 - Programación PLC
-  - Realizar estructura del programa analizando las necesidades del proyecto
-  - Ejecución de programa siguiendo descripción funcional proporcionada por el cliente
-  - Prueba de la programación siguiendo descripción funcional
-  - Realizar documentación del proyecto
-  - Realizar optimizaciones en bases de programación
+  - Realizar estructura del programa analizando las necesidades del proyecto
+  - Ejecución de programa siguiendo descripción funcional proporcionada por el cliente
+  - Prueba de la programación siguiendo descripción funcional
+  - Realizar documentación del proyecto
+  - Realizar optimizaciones en bases de programación
 
 - Programación HMI/SCADA
-  - Analizar necesidades del proyecto
-  - Ejecución del programa HMI
-  - Desarrollo de Scripts, principalmente con VBScript
-  - Realizar optimizaciones en bases de programación
+  - Analizar necesidades del proyecto
+  - Ejecución del programa HMI
+  - Desarrollo de Scripts, principalmente con VBScript
+  - Realizar optimizaciones en bases de programación
 
 - Puesta en Marcha
-  - Realizar trabajos de Puesta en Marcha "In-Situ"
-  - Realizar trabajos de Puesta en Marcha Online
-  - Prueba de cuadros eléctricos con programa PLC y HMI
+  - Realizar trabajos de Puesta en Marcha "In-Situ"
+  - Realizar trabajos de Puesta en Marcha Online
+  - Prueba de cuadros eléctricos con programa PLC y HMI
 
 - Desarrollo de herramientas de optimización
-  - Realizar pequeños programas/scripts para acelerar el flujo de trabajo
-  - Modificación de herramientas existentes para adaptarlas a necesidades puntuales
-  - Desarrollo de herramientas genéricas para optimizar tiempos de ejecución de proyectos
+  - Realizar pequeños programas/scripts para acelerar el flujo de trabajo
+  - Modificación de herramientas existentes para adaptarlas a necesidades puntuales
+  - Desarrollo de herramientas genéricas para optimizar tiempos de ejecución de proyectos
 
 ## Mi primer año
 
