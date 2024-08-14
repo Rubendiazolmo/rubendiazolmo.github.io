@@ -56,7 +56,7 @@ Desde que estoy trabajando en [Valfortec Automation](https://www.linkedin.com/co
   - Soporte técnico al cliente, tanto de manera presencial como en formato remoto
 
 - Programación PLC
-  - Realizar estructura del programa analizando las necesidades del proyecto
+  - Definición de estructura del programa analizando las necesidades del proyecto
   - Ejecución de programa siguiendo descripción funcional proporcionada por el cliente
   - Prueba de la programación siguiendo descripción funcional
   - Realizar documentación del proyecto
