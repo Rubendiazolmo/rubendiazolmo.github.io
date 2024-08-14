@@ -36,6 +36,7 @@ tags:
   - HMI
   - SCADA
   - Jira
+  - WinCC Flexible
 ---
 
 ## ¿Qué he aprendido?
