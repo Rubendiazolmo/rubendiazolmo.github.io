@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 locale                   : "es-ES"
 title                    : "rubendiazolmo.github.io"
 title_separator          : "-"
-name                     : "Snowscan"
-description              : "Posts about security, CTFs and networking"
+name                     : "Rubén Díaz Olmo"
+description              : "Curriculum de Rubén Díaz Olmo"
 url                      : "https://rubendiazolmo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "rubendiazolmo/rubendiazolmo.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Rubén Díaz Olmo"
   avatar           : ""
-  bio              : "Programador PLC/HMI/Scada, Técnico Puesta en Marcha de instalaciones industriales"
-  location         : "Aldaia, Valencia"
+  bio              : "Programador PLC/HMI/Scada/nTécnico Puesta en Marcha de instalaciones industriales"
+  location         : "España"
   email            : "rubendiazolmo@outlook.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
