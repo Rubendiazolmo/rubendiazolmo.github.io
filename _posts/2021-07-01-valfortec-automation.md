@@ -133,6 +133,6 @@ Empecé también a desarrollar herramientas para la optimización del trabajo co
 
 ## Año en curso
 
-Durante este año estoy realizando diferentes proyectos, además de proporcionar soporte a perfiles con menos experiencia para su formación en la empresa. Estoy realizando tareas de soporte técnico a cliente para solucionar las dudas que puedan surgir durante el uso de las instalaciones. También estoy realizando trabajos de puesta en marcha de diferentes proyectos, tanto de forma presencial, como de forma remota.
+Durante este año estoy realizando diferentes proyectos, además de proporcionar soporte a perfiles con menos experiencia para su formación en la empresa. Estoy realizando tareas de soporte técnico al cliente para solucionar las dudas que puedan surgir durante el uso de las instalaciones. También estoy realizando trabajos de puesta en marcha de diferentes proyectos, tanto de forma presencial, como de forma remota.
 
 Además estoy desarrollando herramientas e investigando en tecnologías, como **Jira** para optimizar los flujos de trabajo y la documentación generada en los proyectos.
