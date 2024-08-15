@@ -5,3 +5,5 @@ main:
     url: /categories/
   - title: "Habilidades"
     url: /tags/
+  - title: "Sobre mí"
+    url: /sobre-mi/
