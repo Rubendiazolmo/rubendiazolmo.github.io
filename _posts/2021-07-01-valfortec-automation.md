@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Experiencia - Valfortec Automation
-excerpt: "Valfortec Automation ha sido, hasta el momento, mi primera y única experiencia laboral en el sector de la Automatización Insutrial, en la que estoy aprendiendo gran cantidad de conociemientos que me permiten crecer tanto a nivel profesional como personal."
+excerpt: "Valfortec Automation ha sido, hasta el momento, mi primera y única experiencia laboral en el sector de la Automatización Insutrial, en la que estoy aprendiendo gran cantidad de conociemientos que me permiten crecer tanto a nivel profesional como personal"
 date: 2021-07-01
 classes: wide
 header:
