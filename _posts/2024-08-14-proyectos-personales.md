@@ -36,13 +36,23 @@ De forma indenpendiente realizo diferentes proyectos personales, los cuales util
 
 Por norma general suelo utiliar el IDE **Visual Studio Code** para realizar mis proyectos, debido a su ligereza y a la gran cantidad de extensiones disponibles para este. También he utilizado **VIM** para algunos proyectos, pero por lo general suelo utilizar **Visual Studio Code**.
 
+## Python
+
 Principalmente mis proyectos personales los realizo con **Python** ya que es el lenguaje de programación con el que me encuentro más cómodo para realizar herramientas y proyectos, debido a su sintaxis y la gran cantidad de librerías que hay. En **Python** destacaría un proyecto que hice para realizar un sistema de envio de alarmas por Telegram para WinCC, este proyecto personal me sirvió como base para poder realizar una implementación durante mi carrera profesional en un proyecto real durante mi etapa en [Valfortec Automation](https://www.linkedin.com/company/valfortec-automation).
+
+## Rust
 
 También utilizo **Rust**, principalmente con el framework **Tauri** para realizar aplicaciones de escritorio en las que requiero de una interfaz gráfica, aprovecho Tauri para realizar la GUI con **React**, ya que me es muy conveniente el hecho de usar componentes para el diseño de la GUI.
 
+## Diseño Web
+
 He utilizado también **HTML**, **CSS** y **JavaScript** para realizar mis pequeñas páginas web en local y adquirir así las bases de la programación web.
 
+## C#
+
 He utilizado **C#** para crear mis pequeñas aplicaciones con **Windows Forms**, aprovechando la facilidad de uso con el entorno de desarrollo **Visual Studio** para crear estas aplicaciones.
+
+## Otros
 
 Suelo utiliar **Git** para mis proyectos personales, ya que me posiblitan tener un seguimiento de los cambios que realizo en mi código. Suelo utilizar también **GitHub** para la distrubición de mis proyectos, nada a gran escala más a nivel personal para poder disponer de mis herramientas desde cualquier lugar a traés de **GitHub**. 
 
