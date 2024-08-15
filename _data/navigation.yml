@@ -1,5 +1,7 @@
 main:
   - title: "Inicio"
     url: /
+  - title: "Categorías"
+    url: /categories/
   - title: "Habilidades"
     url: /tags/
