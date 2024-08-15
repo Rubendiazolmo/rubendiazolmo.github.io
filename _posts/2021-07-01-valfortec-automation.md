@@ -24,7 +24,7 @@ tags:
   - ESA Polymath
   - ESA VTWin
   - VBScript
-  - Scripts
+  - Scripting
   - Python
   - C#
   - SQL
