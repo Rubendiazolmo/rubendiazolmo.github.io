@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Experiencia - Valfortec Automation
-excerpt: "Valfortec Automation ha sido, hasta el momento, mi primera y única experiencia laboral en el sector de la Automatización Industrial, en la que estoy aprendiendo gran cantidad de conociemientos que me permiten crecer tanto a nivel profesional como personal"
+excerpt: "Más de 4 años en Valfortec Automation: de programador PLC/HMI/SCADA a integración IT/OT, sistemas de datos y automatización de procesos internos."
 date: 2021-07-01
 classes: wide
 header:
@@ -18,30 +18,21 @@ tags:
   - SoMachine
   - RSLogix
   - Unity Pro XLS
-  - Factory Talk Studio
   - WinCC
   - Indusoft Web Studio
   - ESA Polymath
   - ESA VTWin
   - VBScript
-  - Scripting
   - Python
   - C#
   - SQL
   - SQLite
-  - Excel
   - TIA Openness
   - Puesta en Marcha
   - PLC
   - HMI
   - SCADA
-  - Jira
-  - WinCC Flexible
-  - Comunicaciones industriales
   - Profinet
-  - Profibus
-  - RS232/RS485
-  - Ethernet IP
   - Modbus TCP/IP
   - Modbus RTU
   - OPC
@@ -52,102 +43,38 @@ tags:
   - Bookstack
 ---
 
-## ¿Qué he aprendido?
+Más de 4 años en [Valfortec Automation](https://www.linkedin.com/company/valfortec-automation), evolucionando de programador PLC/HMI/SCADA a integración IT/OT y automatización de procesos internos.
 
-Desde que estoy trabajando en [Valfortec Automation](https://www.linkedin.com/company/valfortec-automation) he realizado las siguientes funciones:
+**Sectores:** calderas de biomasa y vapor · maquinaria · desaladoras · cintas de transporte · plantas de hidrólisis
 
-- Ejecución de proyectos de automatización
-  - Recopilar y analizar documentación técnica
-  - Interiorizar conceptos de las instalaciones programadas
-  - Organización y gestión de recursos asignados para la ejecución del trabajo
-  - Resolución de problemas surgidos durante la ejecución del proyecto
-  - Realizar documentación técnica de la ejecución del proyecto
+**Funciones:** ejecución autónoma de proyectos · programación PLC, HMI y SCADA · puesta en marcha presencial y remota · soporte técnico al cliente · desarrollo de herramientas internas
 
-- Interacción con clientes
-  - Evaluar necesidades del proyecto
-  - Resolución de dudas técnicas
-  - Consulta de dudas
-  - Soporte técnico al cliente, tanto de manera presencial como en formato remoto
+---
 
-- Programación PLC
-  - Definición de estructura del programa analizando las necesidades del proyecto
-  - Ejecución de programa siguiendo descripción funcional proporcionada por el cliente
-  - Configuración de protocolos de comunicación industriales
-    - Modbus TCP/IP
-    - Modbus RTU
-    - RS485
-    - RS232
-    - Profinet
-    - Ethernet IP
-    - Probus
-    - OPC
-  - Prueba de la programación siguiendo descripción funcional
-  - Realizar documentación del proyecto
-  - Realizar optimizaciones en bases de programación
+## 2021 — Primer año
 
-- Programación HMI/SCADA
-  - Analizar necesidades del proyecto
-  - Ejecución del programa HMI
-  - Desarrollo de Scripts, principalmente con VBScript
-  - Realizar optimizaciones en bases de programación
+Incorporación centrada en HMI (**ASEM Premium HMI**) y SCADA (**WinCC 7.4**). Primera toma de contacto real con **VBScript** en una migración de aplicación de frío industrial, donde descubrí el potencial de los scripts en entornos SCADA. A finales de año, primer programa PLC completo: control de cintas de transporte con **SoMachine** (Schneider).
 
-- Puesta en Marcha
-  - Realizar trabajos de Puesta en Marcha "In-Situ"
-  - Realizar trabajos de Puesta en Marcha Online
-  - Prueba de cuadros eléctricos con programa PLC y HMI
+## 2022 — Proyectos autónomos
 
-- Desarrollo de herramientas de optimización
-  - Realizar pequeños programas/scripts para acelerar el flujo de trabajo
-  - Modificación de herramientas existentes para adaptarlas a necesidades puntuales
-  - Desarrollo de herramientas genéricas para optimizar tiempos de ejecución de proyectos
+Paso a ejecutar proyectos completos de forma autónoma (PLC + HMI + SCADA). Migración de SCADA a **WinCC** y de PLC de S7-315 a S7-1515 con **TIA Portal**. Primer contacto con **Indusoft Web Studio**. Descubrimiento del potencial de **Python** y **Excel** para automatizar tareas repetitivas.
 
-## Sectores industriales
+## 2023 — Herramientas y software
 
-He realizado proyectos para diferentes sectores industriales, tales como:
+Desarrollo de un sistema de envío de alarmas de **WinCC** por Telegram en **Python**, con persistencia en **SQLite**. Primeras herramientas en **C#** con Windows Forms. Descubrimiento de **TIA Openness** para automatizar flujos de trabajo en TIA Portal.
 
-  - Calderas de Biomasa
-  - Calderas de Vapor
-  - Maquinaria
-  - Desaladoras
-  - Cintas de transporte
-  - Plantas de hidrólisis
+## 2024 — Consolidación
 
-## Mi primer año
+Proyectos de automatización, mentoring a perfiles junior, soporte técnico al cliente y puesta en marcha. Exploración de **Jira** a nivel de API para optimizar la gestión de proyectos.
 
-Empecé en Valfortec Automation en Julio del año 2021, durante esta anualidad mis labores se basaron principalmente al desarrollo de programas de HMI, utilizando en software **ASEM Premium HMI** y SCADA, utilizando **WinCC**, en concreto la versión 7.4
+## 2025 — IT/OT y datos
 
-Realicé una migración de una aplicación informática de una instalación de frio industrial a **WinCC**, actualizando los patrones de diseño a los utilizados a la fecha de ejecución del proyecto. Durante este proyecto tuve mi primera toma de contacto con el lenguaje **VBScript**, para realizar multitud de funciones en el SCADA con el fin de imitar al máximo las funcionalidades de la aplicación informática. Durante este proyecto también trabajé por primera vez con el software de programación de PLCs de Omron, **CX-Programmer**, teniendo que analizar la programación del PLC para realizar las pertinentes pantallas de configuración en el SCADA. Con este proyecto vi el verdadero potencial de los scritps tanto en los SCADAs, como en las HMIs.
+Proyectos de automatización industrial colaborando directamente con el cliente desde la definición de necesidades técnicas hasta la ejecución. Mentoring a perfiles junior.
 
-A finales de la anualidad del 2021 realicé mi primer programa de PLC, en ese caso fue un control de cintas de transporte, utilizando un PLC Schneider y el software de programación **SoMachine**, el programa se realizó en lenguaje estructurado y me ayudó a entender muchos conceptos de programación de PLCs que hasta la fecha, conocía de manera teórica, pero no los había puesto en práctica.
+Implantación del sistema de registros industriales **Grafana + InfluxDB + Telegraf** en Docker, sustituyendo una solución con limitaciones técnicas.
 
-## Mi segundo año
+## 2026 — En curso
 
-Durante la segunda anualidad realicé proyectos de forma autónoma, realizaba tanto la parte del PLC, como la de la HMI y el SCADA. Durante la primera mitad este año realicé sobre todo ampliaciones de proyectos existentes, también realicé otra migración de una aplicación informática a un SCADA **WinCC** similar a la del año anterior, en este caso también migré el programa PLC de un S7-315 con Step7 a un S7-1515 con **TIA Portal**, realizando también ampliaciones en el programa.
+Proyecto de digitalización interna: automatización de la generación de documentación técnica integrando el sistema de registro de actividad (**C#**) con una wiki interna basada en **Bookstack**.
 
-Durante la segunda mitad del año empecé a realizar proyectos de forma integra, destacando una reprogramación de una planta de frio industrial. Cambié el programa PLC y el Scada, en ese caso el software del SCADA fue **Indusoft Web Studio**, en el que se realizó la programación del SCADA siguiendo unos patrones de diseño establecidos. Realicé 2 proyectos de este estilo muy parecidos entre ellos.
-
-Durante este segundo año descubrí el verdadero potencial de herramientas como **Excel** y **Python** para hacer diferentes herramientas para automatizar mis tareas más repetitivas haciendo que mi flujo de trabajo fuese mucho más efectivo y evitando errores humanos que surgen al realizar tareas repetitivas.
-
-## Mi tercer año
-
-Durante la anualidad del año 2023 realicé proyectos de forma autónoma, tanto ampliaciones de proyectos existentes como proyectos nuevos, analizando la documentación suministrada por el cliente y contactando directamente con él para resolver las dudas surgidas durante la ejecución del proyecto.
-
-También desarrollé con **Python** un sistema de envió de alarmas para WinCC, durante este proyecto vi el potencial de las bases de datos **SQL** y **Python** haciéndome entender la importancia de un buen planteamiento y estructuración de un programa de **Python** y la importancia de una ejecución eficiente de consultas **SQL**. También utilicé **SQLite** para la configuración interna del programa que gestiona el envío de alarmas.
-
-Empecé también a desarrollar herramientas para la optimización del trabajo con **C#** bajo el framework de **.NET** y los **Windows Forms** para la interfaz gráfica. Aquí descubrí el la existencia de **TIA Openness** y junto a esto, su potencial para realizar los desarrollos en TIA Portal de forma eficiente.
-
-## Mi cuarto año
-
-Durante 2024 continué realizando proyectos de automatización de forma autónoma, además de proporcionar soporte a perfiles con menos experiencia en la empresa. Realicé trabajos de puesta en marcha tanto presencial como remota, y tareas de soporte técnico al cliente para resolver dudas surgidas durante el uso de las instalaciones.
-
-También seguí desarrollando herramientas internas e investigando tecnologías como **Jira** para optimizar flujos de trabajo y la documentación generada en los proyectos.
-
-## Mi quinto año
-
-Durante 2025 participé en proyectos de desaladoras industriales, colaborando directamente con el cliente desde las fases iniciales para definir las necesidades técnicas y las soluciones a aplicar. Esta implicación desde el análisis hasta la ejecución supuso un paso adelante en la relación con el cliente y en la toma de decisiones técnicas.
-
-También desarrollé e implante el sistema de registros industriales basado en **Grafana + InfluxDB + Telegraf** desplegado con **Docker**, sustituyendo una solución existente con limitaciones técnicas y mejorando significativamente los tiempos de consulta de datos históricos.
-
-## Año en curso
-
-Actualmente estoy trabajando en un proyecto de optimización interna orientado a automatizar y digitalizar la generación de documentación técnica. El sistema integra el registro de horas y actividad con **RegHorario** y una wiki interna basada en **Bookstack**, con el objetivo de reducir el trabajo manual en la gestión documental y construir una base de conocimiento centralizada y consultable.
+Desarrollo de un sistema de generación de reportes en **PDF** a partir de datos extraídos de las bases de datos SQL de **WinCC 7.5** y **ASEM Premium HMI** mediante **VBScript**. El procesamiento y la generación del documento se realizan con un servicio en **C#**.
