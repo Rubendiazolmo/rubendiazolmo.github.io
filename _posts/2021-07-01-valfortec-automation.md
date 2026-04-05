@@ -45,6 +45,11 @@ tags:
   - Modbus TCP/IP
   - Modbus RTU
   - OPC
+  - Docker
+  - InfluxDB
+  - Grafana
+  - Telegraf
+  - Bookstack
 ---
 
 ## ¿Qué he aprendido?
@@ -131,8 +136,18 @@ También desarrollé con **Python** un sistema de envió de alarmas para WinCC, 
 
 Empecé también a desarrollar herramientas para la optimización del trabajo con **C#** bajo el framework de **.NET** y los **Windows Forms** para la interfaz gráfica. Aquí descubrí el la existencia de **TIA Openness** y junto a esto, su potencial para realizar los desarrollos en TIA Portal de forma eficiente.
 
+## Mi cuarto año
+
+Durante 2024 continué realizando proyectos de automatización de forma autónoma, además de proporcionar soporte a perfiles con menos experiencia en la empresa. Realicé trabajos de puesta en marcha tanto presencial como remota, y tareas de soporte técnico al cliente para resolver dudas surgidas durante el uso de las instalaciones.
+
+También seguí desarrollando herramientas internas e investigando tecnologías como **Jira** para optimizar flujos de trabajo y la documentación generada en los proyectos.
+
+## Mi quinto año
+
+Durante 2025 participé en proyectos de desaladoras industriales, colaborando directamente con el cliente desde las fases iniciales para definir las necesidades técnicas y las soluciones a aplicar. Esta implicación desde el análisis hasta la ejecución supuso un paso adelante en la relación con el cliente y en la toma de decisiones técnicas.
+
+También desarrollé e implante el sistema de registros industriales basado en **Grafana + InfluxDB + Telegraf** desplegado con **Docker**, sustituyendo una solución existente con limitaciones técnicas y mejorando significativamente los tiempos de consulta de datos históricos.
+
 ## Año en curso
 
-Durante este año estoy realizando diferentes proyectos, además de proporcionar soporte a perfiles con menos experiencia para su formación en la empresa. Estoy realizando tareas de soporte técnico al cliente para solucionar las dudas que puedan surgir durante el uso de las instalaciones. También estoy realizando trabajos de puesta en marcha de diferentes proyectos, tanto de forma presencial, como de forma remota.
-
-Además estoy desarrollando herramientas e investigando en tecnologías, como **Jira** para optimizar los flujos de trabajo y la documentación generada en los proyectos.
+Actualmente estoy trabajando en un proyecto de optimización interna orientado a automatizar y digitalizar la generación de documentación técnica. El sistema integra el registro de horas y actividad con **RegHorario** y una wiki interna basada en **Bookstack**, con el objetivo de reducir el trabajo manual en la gestión documental y construir una base de conocimiento centralizada y consultable.

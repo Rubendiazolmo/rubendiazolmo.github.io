@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Proyectos Personales
-excerpt: "Como aficionado a la programación que soy, realizo, de manera independiente mis pequeños proyectos personales, en los cuales hago las primeras tomas de contacto con diferentes tecnologías para continuar aprendiendo"
+excerpt: "Proyectos construidos de forma independiente para resolver problemas reales, explorar tecnologías y construir herramientas útiles en el ámbito industrial y personal."
 date: 2024-08-14
 classes: wide
 header:
@@ -10,63 +10,107 @@ header:
   icon: 
 categories:
   - Proyectos Personales
-tags:  
+tags:
   - Python
-  - Rust
-  - Jira
   - C#
-  - React
-  - HTML
-  - CSS
-  - JavaScript
+  - Go
+  - Docker
+  - InfluxDB
+  - Grafana
+  - Telegraf
+  - Telegram
+  - WinCC
+  - SCADA
+  - HMI
+  - Modbus
+  - ESP32
+  - Tailscale
+  - Ollama
+  - ChromaDB
+  - Claude
+  - SQLite
+  - REST API
+  - Linux
   - Git
   - GitHub
-  - MarkDown
-  - Regex
-  - Windows Forms
-  - Visual Studio
-  - Visual Studio Code
-  - Linux
-  - VIM
-  - SSH
-  - VPN
-  - TIA Openness
   - TIA Portal
+  - TIA Openness
 ---
 
-De forma independiente realizo diferentes proyectos personales, los cuales utilizo para aprender nuevas tecnologías. Todos estos proyectos se han hecho como primera toma de contacto con la tecnología nada a nivel profesional ni comercial.
+Proyectos desarrollados de forma independiente, orientados a resolver problemas reales del entorno industrial o a construir herramientas útiles para el trabajo diario. La mayoría han surgido de una necesidad concreta y varios han acabado desplegados en entornos de producción.
 
-## TIA Portal
+---
 
-A nivel personal también utilizo **TIA Portal** con el fin de descubrir metodologías de trabajo que pueden ser útiles a nivel profesional, como puede ser el desarrollo de bloques de programación para su uso, o implementación de tecnologías en los proyectos mediante los Plug-In oficiales que dispone esta tecnología, como ejemplo destacaría el uso de **GIT** para los proyectos, o el uso de librerías externas para poder efectuar peticiones **HTTP** utilizando en PLC.
+## Sistema de alarmas industriales por Telegram
 
-## Python
+**Stack:** Python · WinCC · ASEM HMI · Telegram Bot API
 
-Principalmente mis proyectos personales los realizo con **Python** ya que es el lenguaje de programación con el que me encuentro más cómodo para realizar herramientas y proyectos, debido a su sintaxis y la gran cantidad de librerías que hay. En **Python** destacaría un proyecto que hice para realizar un sistema de envio de alarmas por Telegram para WinCC, este proyecto personal me sirvió como base para poder realizar una implementación durante mi carrera profesional en un proyecto real durante mi etapa en [Valfortec Automation](https://www.linkedin.com/company/valfortec-automation).
+Sistema de notificación automática de alarmas industriales a grupos de usuarios mediante Telegram. Integrado con SCADA WinCC y HMI ASEM, con una arquitectura desacoplada que no impacta en el sistema SCADA existente. Desplegado en entornos reales de producción.
 
-Con **Python** también he realizado herramientas para poder interactuar con **TIA Portal** mediante **TIA Openness** para desarrollar herramientas de optimización de flujos de trabajo, buscando siempre la reducción de focos de errores y la mejora en tiempos de ejecución de trabajos.
+---
 
-## Rust
+## Pipeline de documentación técnica con LLM
 
-He utilizado **Rust**, principalmente con el framework **Tauri** para realizar aplicaciones de escritorio en las que requiero de una interfaz gráfica, aprovecho Tauri para realizar la GUI con **React**, ya que me es muy conveniente el hecho de usar componentes para el diseño de la GUI.
+**Stack:** Python · C# · Claude API · REST API · SQLite · JSON
 
-También lo suelo utilizar cuando necesito hacer alguna herramienta que tenga que distribuir entre varios equipos, ya que al ser un lenguaje compilado es mucho más sencilla la distribución del programa compilado.
+Pipeline de procesamiento batch de logs de campo mediante Claude API para generar documentación técnica estructurada. Incluye persistencia intermedia en JSON para auditoría y reprocesado, y publicación automática en wiki interna vía API REST. Implementación dual en Python y C# con base de datos compartida.
 
-## Diseño Web
+---
 
-He utilizado también **HTML**, **CSS** y **JavaScript** para realizar mis pequeñas páginas web en local y adquirir así las bases de la programación web.
+## Sistema de registros industriales
 
-## C#
+**Stack:** Grafana · InfluxDB · Telegraf · Docker
 
-He utilizado **C#** para crear mis pequeñas aplicaciones con **Windows Forms**, aprovechando la facilidad de uso con el entorno de desarrollo **Visual Studio** para crear estas aplicaciones.
+Sustitución de una solución de registro basada en hardware limitado por un stack moderno desplegado en Docker. Mejora drástica en tiempos de visualización de datos históricos y mayor flexibilidad para adaptarse a las necesidades reales de planta.
 
-## Otros
+---
 
-Como IDE suelo utilizar **Visual Studio Code** para realizar mis proyectos, debido a su ligereza y a la gran cantidad de extensiones disponibles para este. También he utilizado **VIM** para algunos proyectos y **Visual Studio** cuando trabajo con **C#**.
+## Sistema de acceso remoto OT
 
-Suelo utilizar **Git** para mis proyectos personales, ya que me posibilitan tener un seguimiento de los cambios que realizo en mi código. Suelo utilizar también **GitHub** para la distribución de mis proyectos, nada a gran escala más a nivel personal para poder disponer de mis herramientas desde cualquier lugar a través de **GitHub**.
+**Stack:** Tailscale · Apache Guacamole · VNC · Docker
 
-Como aficionado a la programación me hice con una **Raspberry PI 4** la cual utilizo para realizar mis pequeños proyectos que requieren de un host, como puede ser un **Bot de Telegram** o un servidor de **VPN**. También me ha servido para poder trabajar con un sistema **Linux**, en concreto un **Debian**, y poder interiorizar conceptos que me han sido muy útiles a lo largo de mi carrera profesional. Gracias a la **Raspberry** también descubrí lo que era **SSH**, lo cual me permite interactuar con ella utilizando una consola **Bash** siempre que esté en red con ella.
+Arquitectura de acceso remoto seguro a sistemas industriales sin exposición directa a internet. Permite operar máquinas en planta de forma remota a través de un túnel cifrado, eliminando la necesidad de abrir puertos o depender de soluciones comerciales de terceros. Implementado en entornos productivos.
 
+---
 
+## MFA para HMI industrial
 
+**Stack:** ESP32 · Modbus TCP · Go · TOTP
+
+Sistema de autenticación de doble factor (TOTP) para HMIs industriales, sin dependencia de servicios cloud. Un ESP32 actúa como generador de códigos OTP accesible vía Modbus TCP desde la HMI. Incluye sincronización de hora entre HMI y dispositivo, y una variante implementada en Go para HMIs ejecutadas en PC.
+
+---
+
+## Sistema RAG para mantenimiento industrial
+
+**Stack:** Python · ChromaDB · Ollama · Telegram Bot API
+
+Sistema de consulta de conocimiento técnico construido sobre un histórico de averías. Utiliza embeddings locales con Ollama y ChromaDB para recuperar información relevante, con control de calidad mediante umbrales de similitud. Interfaz de consulta vía bot de Telegram.
+
+---
+
+## Time tracker con reporting automático
+
+**Stack:** Python · SQLite · CSV · Ollama
+
+Herramienta de registro de tiempo de trabajo con almacenamiento local en SQLite, exportación a CSV y generación automática de reportes mediante un modelo de lenguaje local con Ollama.
+
+---
+
+## Sistema de captura de conocimiento técnico *(en desarrollo)*
+
+**Stack:** Python · SQLite
+
+Herramienta interna para registrar problemas, soluciones y decisiones técnicas del trabajo diario de forma estructurada. Objetivo: evitar la pérdida de conocimiento y reducir la repetición de errores, construyendo una base de conocimiento compartida y consultable.
+
+---
+
+## Proyectos anteriores
+
+**Sistema de alarmas WinCC (prototipo):** primera versión del sistema de alarmas por Telegram, desarrollada como prueba de concepto antes de su implementación profesional en Valfortec.
+
+**TIA Openness:** herramientas en Python para interactuar con TIA Portal y optimizar flujos de trabajo — reducción de focos de error y mejora en tiempos de ejecución.
+
+**Aplicaciones de escritorio:** proyectos en Rust con Tauri + React para herramientas con GUI distribuibles entre múltiples equipos. Aplicaciones en C# con Windows Forms.
+
+**Homelab:** Raspberry Pi 4 con Debian Linux utilizada como host de bots de Telegram y servidor VPN. Punto de entrada al mundo Linux, SSH y Bash.
