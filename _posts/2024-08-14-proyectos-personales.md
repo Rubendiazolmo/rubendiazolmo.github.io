@@ -2,7 +2,7 @@
 layout: single
 title: Proyectos Personales
 excerpt: "Proyectos construidos de forma independiente para resolver problemas reales, explorar tecnologías y construir herramientas útiles en el ámbito industrial y personal."
-date: 2024-08-14
+date: 2026-04-05
 classes: wide
 header:
   teaser: 

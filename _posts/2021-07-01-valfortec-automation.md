@@ -2,7 +2,7 @@
 layout: single
 title: Experiencia - Valfortec Automation
 excerpt: "Más de 4 años en Valfortec Automation: de programador PLC/HMI/SCADA a integración IT/OT, sistemas de datos y automatización de procesos internos."
-date: 2021-07-01
+date: 2026-04-05
 classes: wide
 header:
   teaser: 
